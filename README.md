@@ -1,8 +1,8 @@
 # WebGL Fluid Simulation
 
-[Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+[Refer here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
-<img src="/screenshot.jpg?raw=true" width="880">
+
 
 ## References
 
