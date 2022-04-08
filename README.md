@@ -2,6 +2,7 @@
 
 [Refer here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
+![WebFluid](https://user-images.githubusercontent.com/75971776/162515475-f61855f7-4561-44c2-8077-4cf8e467d37b.gif)
 
 
 ## References
