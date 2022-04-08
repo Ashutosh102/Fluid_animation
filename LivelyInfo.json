@@ -4,9 +4,9 @@
   "Thumbnail": "fluid.jpg",
   "Preview": "fluid_preview.gif",
   "Desc": "Fluid simulation using WebGL, reacts with system audio & cursor.",
-  "Author": "PavelDoGreat",
+  "Author": "DevAshu",
   "License": "MIT",
-  "Contact": "https://github.com/rocksdanister/WebGL-Fluid-Simulation",
+  "Contact": "https://github.com/Ashutosh102/Fluid_animation",
   "Type": 2,
-  "FileName": "fluid.html"
+  "FileName": "index.html"
 }
